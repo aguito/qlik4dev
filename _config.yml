@@ -11,8 +11,8 @@
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-url: "https://aguito.github.io/qlik4dev/"
-baseurl: ""
+url: "http://aguito.github.io/qlik4dev/"
+baseurl: "/qlik4dev"
 
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -29,10 +29,10 @@ description: Blog de desarrollo de QlikView y QlikSense
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#   - Learn markdown: "http://www.markdowntutorial.com/"
+#  - GitHub Pages: "https://pages.github.com/"
+#  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
