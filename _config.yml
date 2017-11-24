@@ -12,7 +12,7 @@
 #baseurl: "/projectname"
 
 url: "http://aguito.github.io"
-baseurl: "/qlik4dev"
+baseurl: ""
 
 
 # Of course don't forget to change the username and projectname to YOUR username and project
