@@ -19,20 +19,20 @@ Normalmente la informacion que se suele referenciar es el número de la versión
 Para evitar, la asociación con futuros campos del informe, la tabla se cualifica.
 
 ~~~
-//*************************************
-//system Version Control
-//*************************************
+ //*************************************
+ //system Version Control
+ //*************************************
 
-Qualify *;
+ Qualify *;
 
-SVC:
-LOAD * INLINE [Version|Date|Author|Description
-0.1.0|09/09/2017|aguito|go live
-0.1.1|15/09/2017|aguito|first changes done ...
+ SVC:
+ LOAD * INLINE [Version|Date|Author|Description
+ 0.1.0|09/09/2017|aguito|go live
+ 0.1.1|15/09/2017|aguito|first changes done ...
 
-] (Delimiter is '|');
+ ] (Delimiter is '|');
 
-Unqualify *;
+ Unqualify *;
 
 ~~~
 
@@ -43,7 +43,7 @@ Para referenciar en todo el docuento la vesión del informe, se puede crear en e
 Para obtener la última versión se puede utilizar la función FirstSortedValue de la siguiente forma:
 
 ~~~
-='Last Version: ' & FirstSortedValue([SVC.Version],-[SVC.Date])
+ ='Last Version: ' & FirstSortedValue([SVC.Version],-[SVC.Date])
 ~~~
 
 Esta función devuelve la última versión documentada, tomando como referencia la última fecha en la que se ha realizado el cambio.

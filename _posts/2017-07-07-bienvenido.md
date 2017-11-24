@@ -1,7 +1,7 @@
 ---
 layout: post
-title: bienvenido
-subtitle: Each post also has a subtitle
+title: Bienvenido
+subtitle: 
 gh-repo: aguito/qlik4dev
 gh-badge: [star, fork, follow]
 ---
