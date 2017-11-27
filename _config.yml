@@ -28,6 +28,7 @@ description: Blog de desarrollo de QlikView y QlikSense
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Bibliografia: "bibliografia"
   Resources:
     - Qlik: "https://www.qlik.com/es-es"
 #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
