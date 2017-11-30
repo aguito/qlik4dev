@@ -3,7 +3,7 @@ layout: post
 title: Control de Versiones Interno
 subtitle: 
 date: 09/07/2017 20:15:00
-
+tags: [Scripting, QlikView, QlikSense]
 gh-repo: aguito/qlik4dev
 gh-badge: [star, follow]
 ---
