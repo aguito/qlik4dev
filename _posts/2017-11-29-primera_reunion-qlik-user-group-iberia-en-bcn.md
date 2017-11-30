@@ -1,9 +1,9 @@
 ---
-	layout: post
-	title: Primera Reunion Qlik User Group Iberia en BCN
-	subtitle: 
-	date: 29/11/2017 22:15:00
-	tags: [Qlik User Group Iberia, BCN]
+layout: post
+title: Primera Reunion Qlik User Group Iberia en BCN
+subtitle: 
+date: 29/11/2017 22:15:00
+tags: [Qlik User Group Iberia, BCN]
 ---
 
 Hoy ha tenido lugar la primera reunion del grupo de usuarios de Qlik.
