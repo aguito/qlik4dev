@@ -51,4 +51,4 @@ Esta función devuelve la última versión documentada, tomando como referencia 
 
 Finalmente, los usuarios pueden ver en la hoja SVC que se encuentra al final del documento el contenido de control de versiones en una tabla.
 
-![SVC](/images/svc.png)
+![SVC]({{ "/images/svc.png" | absolute_url }})
