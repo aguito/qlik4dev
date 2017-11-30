@@ -12,12 +12,12 @@ Hoy he recibido un correo donde me comunican que he sido seleccionado para forma
 
 Esta iniciativa es muy interesante ya que los principales objetivos del grupo son:
 
-	+ Compartir experiencias y conocimiento
-	+ Casos de uso
-	+ Novedades de productos
-	+ Best Practices
-	+ Networking
-	+ Relación exclusiva con el equipo de Qlik Iberia
-	+ y seguro que alguna más …
++ Compartir experiencias y conocimiento
++ Casos de uso
++ Novedades de productos
++ Best Practices
++ Networking
++ Relación exclusiva con el equipo de Qlik Iberia
++ y seguro que alguna más …
 
 Aún no está cerrada la fecha y lugar del primer meeting pero ya tengo ganas de participar, pero será breve!
