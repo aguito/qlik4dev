@@ -2,8 +2,10 @@
 layout: post
 title: Control de Versiones Interno
 subtitle: 
+date: 09/07/2017 20:15:00
+
 gh-repo: aguito/qlik4dev
-gh-badge: [star, fork, follow]
+gh-badge: [star, follow]
 ---
 
 Con independencia de los sistemas profesionales de control de versiones tipo git, svn, etc. algunos autores recomiendan registrar en una pestaña o seccion de script información comentada sobre la finalidad del proyecto y los cambios ya sean evolutivos o correctivos que se han realizado.

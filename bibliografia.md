@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: Bibliografia
-subtitle: Manuales, guias y documentacion de referencia
-gh-repo: aguito/qlik4dev
-gh-badge: [star, follow]
+subtitle: Manuales
 ---
-#Manuales
 
-|Titulo|Editorial| Autor|Ambito|Valoracion|Nivel|Observaciones|
-|Desarrollo en QlikView 11|Pack Publishing|Miguel A.|QlikView|*****(5)|Todos|Es un libro de referencia, de los pocos que esta en ingles y español. |
+# Manuales
+
+| Titulo| Editorial| Autor| Ambito| Valoracion| Nivel| Observaciones|
+|---|---|---|---|---|---|---|
+| QlikView 11 para Desarrolladores | Pack Publishing | Miguel García & Barry Harmsen | QlikView | *****(5)| Todos | Es un libro de referencia, de los pocos que esta en ingles y español. |
