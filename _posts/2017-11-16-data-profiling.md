@@ -23,28 +23,21 @@ Esta hoja la llamo __workbook__, y con esta filosofia, dejamos espacio para pode
 
 El profiling aborda distintos tipos de analisis, pero de forma sencilla se suele tratar la:
 
-
-	* __Exactitud__: Dentro del ámbito de exactitud se analiza el rango de los datos para identificar los estadísticos.
-
-		* Numero de registros
-		* Tipo de Dato: Texto, Numerico, Otro
-		* Valor Max
-		* Valor Min
-		* Longitud de Cadena Max
-		* Longitud de Cadena Min
-	* __Unicidad__: analizar los datos identificar valores únicos
-	* __Integridad__: analizar los datos para identificar valores nulos
-
++ __Exactitud__: Dentro del ámbito de exactitud se analiza el rango de los datos para identificar los estadísticos.
+    + Numero de registros
+    + Tipo de Dato: Texto, Numerico, Otro
+    + Valor Max
+    + Valor Min
+    + Longitud de Cadena Max
+    + Longitud de Cadena Min
++ __Unicidad__: analizar los datos identificar valores únicos
++ __Integridad__: analizar los datos para identificar valores nulos
 
 La forma de realizar este tipo de inspección es mediante:
 
-
-	* _Tablas de resultados_
-
-A parte de los resúmenes de estadísticos permite analizar los datos desnormalizados
-
-	* _Histogramas_ o gráficos de _ocurrencia_
-	* _Análisis de Benford_ para análisis de valores numéricos
++ _Tablas de resultados_, a parte de los resúmenes de estadísticos permite analizar los datos desnormalizados
++ _Histogramas_ o gráficos de _ocurrencia_
++ _Análisis de Benford_ para análisis de valores numéricos
 
 
 Tomando como referencia el excelente trabajo realizado por steve dark [qlikintelligence.co.uk] (
