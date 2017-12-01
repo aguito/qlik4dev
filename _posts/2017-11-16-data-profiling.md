@@ -2,7 +2,7 @@
 layout: post
 title: Data Profiling
 subtitle: 
-date:
+date: 16/11/2017 20:15:00
 tags: [qlikview, qliksense, data profiling, best practice]
 gh-repo: aguito/qlik4dev
 gh-badge: [star, fork, follow]
