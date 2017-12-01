@@ -44,6 +44,7 @@ Tomando como referencia el excelente trabajo realizado por steve dark [qlikintel
 https://www.quickintelligence.co.uk/qlikview-data-profiler/) he adaptado las funcionalidades de profiling a mis documentos.
 
 ##Qlikview
+
 En Qlikview el profiling forma parte del template que usamos normalmente. Se encuentra como he comentado en la hoja workbook. La ventaja es que en caso de necesidad se pueden copiar todos los objetos y trasladarlos a un documento que no los contenga. La estructura de los objetos es la siguiente:
 
 [![qlikview-profiler]({{site.url}}/img/blog/qlikview_profiler.PNG )]({{site.url}}/img/blog/qlikview_profiler.PNG )
@@ -54,6 +55,7 @@ En cuanto a los valores y distribución para aprovechar más el espacio hemos un
 Angel Monjarás hizo una presentación muy intersante en el Qlik Dev Group en Mexico. En su blog [qlikmasternlog](http://qlikmasterblog.wordpress.com/) se puede descargar.
 
 ##QlikSense
+
 El autor recientemente ha creado la version QlikSense que también esta disponible en su página [qlikintelligence.co.uk] (
 https://www.quickintelligence.co.uk/qlik-sense-data-profiler/)
 Aqui la cosa se complica, como bien indica el autor del profiler en Sense no se pueden copiar objetos de un documento a otro y mrbos n distintos entorno (desktop, cloud, ...), asi que la solucion es importat un documento con todas las funcionalidades a modo de plantilla e iniciar el desarrollo. En si es la filosofia que noaotros sefuimos en view pero a dia de hoy aun no hemos creado un template de Sense que integre todas las funcionalidades que consideramos necesarias para el desarrollo, asi que habra que ponerse a ello. En Sense como  no se pueden usar contenedores, hemos decidido usar toda la paleta para realizar el profiling tal cual la propuesta.
