@@ -43,7 +43,7 @@ La forma de realizar este tipo de inspección es mediante:
 Tomando como referencia el excelente trabajo realizado por steve dark [qlikintelligence.co.uk] (
 https://www.quickintelligence.co.uk/qlikview-data-profiler/) he adaptado las funcionalidades de profiling a mis documentos.
 
-##Qlikview
+## Qlikview
 
 En Qlikview el profiling forma parte del template que usamos normalmente. Se encuentra como he comentado en la hoja workbook. La ventaja es que en caso de necesidad se pueden copiar todos los objetos y trasladarlos a un documento que no los contenga. La estructura de los objetos es la siguiente:
 
@@ -54,7 +54,7 @@ En cuanto a los valores y distribución para aprovechar más el espacio hemos un
 
 Angel Monjarás hizo una presentación muy intersante en el Qlik Dev Group en Mexico. En su blog [qlikmasternlog](http://qlikmasterblog.wordpress.com/) se puede descargar.
 
-##QlikSense
+## QlikSense
 
 El autor recientemente ha creado la version QlikSense que también esta disponible en su página [qlikintelligence.co.uk] (
 https://www.quickintelligence.co.uk/qlik-sense-data-profiler/)
