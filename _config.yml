@@ -1,4 +1,4 @@
-# --- General options --- #
+Author: Rajesh Kumar# --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -42,7 +42,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/Qlik4dev.png"
 
 # --- Background colour/image options --- #
 
